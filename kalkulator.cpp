@@ -7,4 +7,4 @@ class kalkulator{
       int pembagian();
       int pengurangan();
       float a,b,hasil;
-}
+};
