@@ -6,7 +6,5 @@ class kalkulator{
       int pertambahan();
       int pembagian();
       int pengurangan();
-      
-  privat :
       float a,b,hasil;
-      }
+}
